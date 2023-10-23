@@ -1,2 +1,3 @@
 [submodule "client"]
+ path = client
 	url = https://github.com/Nidhee07/Mern_eccomerce.git
